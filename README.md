@@ -27,3 +27,7 @@
 [234. 回文链表](https://leetcode.cn/problems/palindrome-linked-list?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj)
 
 挑了一个简单点的链表题，秒了
+
+[2. 两数相加](https://leetcode.cn/problems/add-two-numbers?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj)
+
+这题没做出来，看了答案之后发现add的用法挺巧妙的，多看看这道题
