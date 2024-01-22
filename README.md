@@ -23,3 +23,7 @@
 [21. 合并两个有序链表](https://leetcode.cn/problems/merge-two-sorted-lists?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj)
 
 上次做的两个链表题已经很熟练了，没想到这次做这个链表题还是没做出来，还是不太熟悉链表的题目。这道题中不仅要给一个空的头节点cummy，还得给一个当前的节点cur。dummy用来标记这个新链表，cur作为当前操作的节点。
+
+[234. 回文链表](https://leetcode.cn/problems/palindrome-linked-list?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj)
+
+挑了一个简单点的链表题，秒了
