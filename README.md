@@ -41,3 +41,7 @@
 [102. 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj)
 
 面试之前突击一下二叉树。这道题之前写的滚瓜烂熟，现在又忘了，重新记一遍
+
+[101. 对称二叉树](https://leetcode.cn/problems/symmetric-tree?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj)
+
+记住这种循环遍历的思想
