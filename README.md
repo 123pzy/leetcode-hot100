@@ -31,3 +31,9 @@
 [2. 两数相加](https://leetcode.cn/problems/add-two-numbers?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj)
 
 这题没做出来，看了答案之后发现add的用法挺巧妙的，多看看这道题
+
+# 1.23
+
+[62. 不同路径](https://leetcode.cn/problems/unique-paths/)
+
+这题想到了一个新解法
