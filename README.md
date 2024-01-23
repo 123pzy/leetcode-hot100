@@ -37,3 +37,7 @@
 [62. 不同路径](https://leetcode.cn/problems/unique-paths/)
 
 这题想到了一个新解法
+
+[102. 二叉树的层序遍历](https://leetcode.cn/problems/binary-tree-level-order-traversal?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj)
+
+面试之前突击一下二叉树。这道题之前写的滚瓜烂熟，现在又忘了，重新记一遍
