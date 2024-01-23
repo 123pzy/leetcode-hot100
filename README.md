@@ -45,3 +45,7 @@
 [101. 对称二叉树](https://leetcode.cn/problems/symmetric-tree?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj)
 
 记住这种循环遍历的思想
+
+[39. 组合总和](https://leetcode.cn/problems/combination-sum?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj)
+
+注意题目中说了一个数字可以被重复选取，所以是bt(i)而不是bt(i+1)
