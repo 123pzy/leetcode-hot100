@@ -49,3 +49,9 @@
 [39. 组合总和](https://leetcode.cn/problems/combination-sum?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj)
 
 注意题目中说了一个数字可以被重复选取，所以是bt(i)而不是bt(i+1)
+
+# 3.16 
+
+[70. 爬楼梯](https://leetcode.cn/problems/climbing-stairs?envType=featured-list&envId=2cktkvj?envType=featured-list&envId=2cktkvj)
+
+在北理工珠海校区刷题，很久不刷了，这个题注意第0阶的方法数量是1
